@@ -7,6 +7,7 @@
 
 @import "reset";
 @import "variables";
+@import "posts-styles";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -243,7 +244,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  //border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
