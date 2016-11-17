@@ -1,4 +1,12 @@
-# Swift Basics
+---
+layout: post
+title: "SWIFT Basics"
+tags:
+  - swift
+  - ios
+  - basics
+published: true
+---
 
 ## Variables
 

@@ -1,4 +1,12 @@
-# Learning Firebase with Udemy Course
+---
+layout: post
+title: "Learning Firebase with Udemy Course"
+tags:
+  - javascript
+  - firebase
+  - udemy
+published: true
+---
 
 ### Create basic file structure
 
@@ -66,3 +74,4 @@ __Now you can connect to your firebase app in from chrome dev tools:__
 
 ## Updating and Deleting Data
 
+...incomplete, to be continued
